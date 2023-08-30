@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KIRUBEL GRIMA</h1>
-<h3 align="center">I am an electrical and computer engineering student with a great passion of software development.</h3>
+<h3 align="center">I am an electrical and computer engineer with a great passion of software development.</h3>
 
 <p align="left"> <a href="https://twitter.com/kirag271" target="blank"><img src="https://img.shields.io/twitter/follow/kirag271?logo=twitter&style=for-the-badge" alt="kirag271" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Kirubelgirma027@gmail.com**
 
-- ⚡ Fun fact **I love myself.**
+- ⚡ Fun fact **I work in the night shift.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
